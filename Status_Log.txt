@@ -1,0 +1,9 @@
+17068, bash.exe
+16568, Code.exe
+11068, cmd.exe
+16692, chrome.exe
+3964, McChHost.exe
+12636, winpty-agent.exe
+13300, WinRAR.exe
+13564, EXCEL.EXE
+15700, WINWORD.EXE
