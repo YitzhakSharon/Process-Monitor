@@ -1,9 +1,47 @@
-17068, bash.exe
-16568, Code.exe
-11068, cmd.exe
-16692, chrome.exe
-3964, McChHost.exe
-12636, winpty-agent.exe
-13300, WinRAR.exe
-13564, EXCEL.EXE
-15700, WINWORD.EXE
+14768 , WINWORD.EXE , 2018-05-03 06:53:53
+15160 , WmiApSrv.exe , 2018-05-03 06:54:46
+3228 , MaxxAudioPro.exe , 2018-05-03 06:55:59
+6660 , SearchFilterHost.exe , 2018-05-03 06:56:00
+13348 , SearchFilterHost.exe , 2018-05-03 06:56:03
+3228 , MaxxAudioPro.exe , 2018-05-03 06:56:05
+13348 , SearchFilterHost.exe , 2018-05-03 06:57:38
+10416 , SearchProtocolHost.exe , 2018-05-03 06:57:38
+9496 , SearchProtocolHost.exe , 2018-05-03 06:57:40
+13324 , SearchFilterHost.exe , 2018-05-03 06:57:40
+9140 , cmd.exe , 2018-05-03 07:00:03
+13704 , McChHost.exe , 2018-05-03 07:00:03
+5136 , chrome.exe , 2018-05-03 07:00:05
+2860 , chrome.exe , 2018-05-03 07:02:36
+8744 , chrome.exe , 2018-05-03 07:02:37
+13708 , smartscreen.exe , 2018-05-03 07:02:37
+11612 , McChHost.exe , 2018-05-03 07:02:41
+13676 , cmd.exe , 2018-05-03 07:02:41
+14088 , SearchFilterHost.exe , 2018-05-03 07:09:38
+4264 , SearchFilterHost.exe , 2018-05-03 07:09:40
+13544 , audiodg.exe , 2018-05-03 07:10:2413544 , audiodg.exe , 2018-05-03 07:10:25
+
+4264 , SearchFilterHost.exe , 2018-05-03 07:11:37
+12456 , SearchProtocolHost.exe , 2018-05-03 07:11:37
+10328 , SearchProtocolHost.exe , 2018-05-03 07:11:39
+13584 , SearchFilterHost.exe , 2018-05-03 07:11:39
+11944 , koala.exe , 2018-05-03 07:13:44
+11944 , koala.exe , 2018-05-03 07:13:47
+14700 , backgroundTaskHost.exe , 2018-05-03 07:15:46
+13032 , WmiApSrv.exe , 2018-05-03 07:16:44
+14700 , backgroundTaskHost.exe , 2018-05-03 07:17:16
+8316 , WmiApSrv.exe , 2018-05-03 07:54:45
+5560 , SearchFilterHost.exe , 2018-05-03 07:54:48
+14832 , SearchFilterHost.exe , 2018-05-03 07:55:44
+524 , smartscreen.exe , 2018-05-03 07:56:07
+6756 , WINWORD.EXE , 2018-05-03 07:56:07
+15080 , mcupdate.exe , 2018-05-03 07:56:16
+15080 , mcupdate.exe , 2018-05-03 07:56:199204 , audiodg.exe ,2018-05-03 18:26:12
+14072 , SearchFilterHost.exe ,2018-05-03 18:27:51
+15284 , SearchProtocolHost.exe ,2018-05-03 18:27:51
+4656 , SearchProtocolHost.exe ,2018-05-03 18:27:53
+9144 , SearchFilterHost.exe ,2018-05-03 18:27:54
+9144 , SearchFilterHost.exe ,2018-05-03 18:29:50
+4656 , SearchProtocolHost.exe ,2018-05-03 18:29:50
+4564 , SearchProtocolHost.exe ,2018-05-03 18:29:52
+14844 , SearchFilterHost.exe ,2018-05-03 18:29:53
+1008 , WmiApSrv.exe ,2018-05-03 18:29:58
